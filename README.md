@@ -126,13 +126,13 @@ The database schema and SQL queries are designed to reflect standard practices i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-db-project.git
-cd ecommerce-db-project
+git clone https://github.com/Harshita-bioinfo/SQL-Data-Analysis.git
+cd SQL-Data-Analysis
 ```
 
 2. Open your preferred SQL IDE and run:
 
-   * `expanded_ecommerce_schema.sql` to build the schema and populate tables
+   * `ecommerce_schema.sql` to build the schema and populate tables
    * `ecommerce_queries.sql` to run the analysis queries
 
 3. Review results and optimize queries if needed.
